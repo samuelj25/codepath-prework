@@ -39,7 +39,7 @@ I would like to build a Manga tracker app that keeps track of media you have com
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+No challenges encountered while building this app.
 
 
 ## License
